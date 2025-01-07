@@ -11,3 +11,7 @@ This research aims to investigate the dynamic nature of linguistic style through
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/60e8700e-e01a-4025-a31b-6a5d0d6042b6" />
 
 
+Use the link to access paper and cite: http://arxiv.org/abs/2501.02392
+Access PDF over here from arXiv: https://arxiv.org/pdf/2501.02392
+
+
